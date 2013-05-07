@@ -4,7 +4,6 @@
 //Fecha: 02/04/2013
 //Hora: 20:53
 //Descripción: muestra una cadena de texto por la salida estandar.
-//Pendiente para borrado.
 
 public class GitHub{
 	public static void main(String[] args){
