@@ -1,1 +1,1 @@
-Mostrando como usar un Sistema de control de Versiones Descentralizado
+Mostrando como usar un Sistema de control de Versiones Descentralizado.
